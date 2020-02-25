@@ -131,6 +131,8 @@ class MakeGame():
                     discrete_state = new_discrete_state
         self.env.close()
         plt.plot(self.x_values, self.y_values)
+        plt.ylabel('Score')
+        plt.xlabel('Episode')
         plt.show()
 
 
