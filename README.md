@@ -3,4 +3,4 @@
 This is an itroduction to q learning and deep q learning
 The task is to balance a pen on a platfrom 
 
-Make sure you have installed the 'gym' library
+Make sure you have installed the `gym` library
